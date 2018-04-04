@@ -1,4 +1,4 @@
-# State Farm Distracted Driver Detection
+# IEEE's Signal Processing Society - Camera Model Identification
 ![MKT](https://img.shields.io/badge/version-v0.1-blue.svg)
 ![MKT](https://img.shields.io/badge/language-Python-orange.svg)
 ![MKT](https://img.shields.io/badge/platform-Jupyter-lightgrey.svg)
@@ -6,18 +6,12 @@
 
 # Description
 
-The objective of this task is to classify each driver's behavior. The dataset used is from the Kraggle competition: https://www.kaggle.com/c/state-farm-distracted-driver-detection.
+The objective of this task is to classify each driver's behavior. The dataset used is from the Kraggle competition: https://www.kaggle.com/c/sp-society-camera-model-identification.
 
 ![alt text](https://github.com/RenatoBMLR/state-farm-distracted-driver-detection/blob/master/figures/data.png)
 
 
-This project was made using mainly PyTorch and some Deep Neural Networks with operations optimized by GPU. The convolutional neural networks architectures usede are presented below:
-
-- [ResNet](https://arxiv.org/abs/1512.03385)
-
-- [InceptionV3](https://arxiv.org/abs/1512.00567)
-
-- [DenseNet](https://arxiv.org/abs/1608.06993)
+This analysis  was made using mainly PyTorch and we have made a comparasion between the performance obtained using tradicional approaches of Machine Learninig and Deep Learning techniques.
 
 # Requirements
 
