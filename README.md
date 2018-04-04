@@ -6,12 +6,11 @@
 
 # Description
 
-The objective of this task is to classify each driver's behavior. The dataset used is from the Kraggle competition: https://www.kaggle.com/c/sp-society-camera-model-identification.
+The objective of this task is identifies which camera model captured an image by using traces intrinsically left in the image. The dataset used is from the Kraggle competition: https://www.kaggle.com/c/sp-society-camera-model-identification.
 
 ![alt text](https://github.com/RenatoBMLR/state-farm-distracted-driver-detection/blob/master/figures/data.png)
 
-
-This analysis  was made using mainly PyTorch and we have made a comparasion between the performance obtained using tradicional approaches of Machine Learninig and Deep Learning techniques.
+In this analysis we have made a comparasion between the classification performance obtained using tradicional approaches of Machine Learninig and some Deep Learning techniques.
 
 # Requirements
 
