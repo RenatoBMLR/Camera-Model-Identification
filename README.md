@@ -1,5 +1,6 @@
 # IEEE's Signal Processing Society - Camera Model Identification
 
+The objective of this task was to identify which camera model was used using informations based on the image's noise.
 
 # Description
 
