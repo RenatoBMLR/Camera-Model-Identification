@@ -5,7 +5,7 @@
 
 The classification was carry out based on the image's noise, which was obtained by subtracting the original image by its filtered version. The features were extracted by a combination of wavelet based features and noise's texture characteristics using Local Binary Patterns. The dataset used is from the Kraggle competition: https://www.kaggle.com/c/sp-society-camera-model-identification.
 
-![alt text](hhttps://github.com/RenatoBMLR/Camera-Model-Identification/blob/master/figures/camara_images_transformations.png/camara_images_transformations.png)
+![alt text](https://github.com/RenatoBMLR/Camera-Model-Identification/blob/master/figures/camara_images_transformations.png/camara_images_transformations.png)
 
 Two different models (Logistic Regression and Neural Network) were trained with different versions of images patches. Using an ensemble of these models we were able to have an accuracy of 0.86 in the validation set.
 
